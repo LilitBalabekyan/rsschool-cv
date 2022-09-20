@@ -78,7 +78,7 @@ Courses and lesson
 Works
 -----
 
-CV Markdown
+CV Markdown  https://LilitBalabekyan.github.io/rsschool-cv/cv
 
 
 CV Markdown link
@@ -87,6 +87,6 @@ CV Markdown link
 Languages
 ---------
 
-*   English: B2-intermadiate
-*   Russian: Intermadiate
+*   English: B2-intermediate
+*   Russian: Intermediate
 *   Armenian: Native
