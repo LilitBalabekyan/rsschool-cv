@@ -78,8 +78,10 @@ Courses and lesson
 Works
 -----
 
-[CV Markdown](https://LilitBalabekyan.github.io/rsschool-cv/cv)
+CV Markdown
 
+
+CV Markdown link
 * * *
 
 Languages
