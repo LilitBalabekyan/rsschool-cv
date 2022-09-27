@@ -1,0 +1,15 @@
+.divMain  {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #e3e396;
+    padding: 10px;
+   
+}
+.infoContact {
+    text-decoration: none;
+    color: black;
+
+}
+.codeExample {
+    color: black;
+}
